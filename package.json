@@ -1,0 +1,19 @@
+{
+  "name": "web3js-samples",
+  "version": "1.0.0",
+  "description": "Sample codes for using web3.js (Ethereum JavaScript API)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alison Lin <yslin1013@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-abi": "^0.6.7",
+    "ethereumjs-tx": "1.3.7",
+    "ethereumjs-wallet": "^0.6.3",
+    "solc": "^0.4.25",
+    "web3": "1.0.0-beta.36"
+  }
+}
