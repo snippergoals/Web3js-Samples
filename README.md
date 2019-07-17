@@ -5,13 +5,13 @@ Web3 + Ganache + Node.js + JavaScript + Solidity
 ```
 ## Usage  
 ```
-npm install  
-cd contracts  
-sh ganache.sh  
-node ccd.js  
-cd ..  
-node web3-built-in.js  
-node web3-contract.js  
+$ npm install  
+$ cd contracts  
+$ sh ganache.sh  
+$ node ccd.js  
+$ cd ..  
+$ node web3-built-in.js  
+$ node web3-contract.js  
 ```
 ## Node Side (via RPC)  
 
