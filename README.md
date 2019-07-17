@@ -1,4 +1,4 @@
-# Sample Codes for using web3.js (Ethereum JavaScript API)  
+# Sample Codes for Using web3.js (Ethereum JavaScript API)  
 ## Environment  
 ```
 Web3 + Ganache + Node.js + JavaScript + Solidity  
